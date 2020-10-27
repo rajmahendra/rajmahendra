@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working ...
+     - For a bank as a Agilist in software engineering group
+     - For Kotling Community in Hyderabad City. 
+     - To Colaborating with other community members
+- 🌱 I’m currently learning ...
+     - To become Dev Rel/Advoicate
+     - Technical Writing
+     - Blogging/Vlogging
+- 👯 I’m looking to collaborate on ..
+     - on anything runs on Java and Kotlin. 
+     - Interesting open source
+     - Anyone interested in Community
+- 🤔 I’m looking for help with ...
+     - To become Dev Rel/Advoicate
+     - Technical Writing
+- 💬 Ask me anything ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 ## GitHub Stats 
 ![Rajmahendra's github stats](https://github-readme-stats.vercel.app/api?username=rajmahendra&count_private=true&show_icons=true)
 
