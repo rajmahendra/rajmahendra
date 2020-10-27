@@ -9,14 +9,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## GitHub Stats 
-![Rajmahendra's github stats](https://github-readme-stats.vercel.app/api?username=rajmahendra&count_private=true&show_icons=true)
+## Connect with me
+![GitHub followers](https://img.shields.io/github/followers/rajmahendra?label=Follow%20me&logo=github&style=flat-square)
+[![](https://img.shields.io/badge/-YOUTUBE-informational?style=flat-square&logo=youtube&logoColor=white&color=red)](https://youtube.com/rajmahendrar/)
+[![](https://img.shields.io/badge/-TWITTER-informational?style=flat-square&logo=twitter&logoColor=white&color=blue)](https://twitter.com/rajmahendrar/)
+[![](https://img.shields.io/badge/-INSTAGRAM-informational?style=flat-square&logo=instagram&logoColor=white&color=orange)](https://instagram.com/rajmahendrar/)
+[![](https://img.shields.io/badge/-FAKEBOOK-informational?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rajmahendrar/)
+[![](https://img.shields.io/badge/-REDDIT-informational?style=flat-square&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/u/rrhegde)
 
-<p align="center">
-  <a href="https://github.com/rajmahendra?tab=followers">
-    <img src="https://img.shields.io/github/followers/rajmahendra?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/rajmahendrar">
-    <img src="https://img.shields.io/twitter/follow/rajmahendrar?label=Twitter&logo=twitter&style=for-the-badge" />
-  
-</p>
+## GitHub Stats 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmahendra)](https://github.com/rajmahendra)
