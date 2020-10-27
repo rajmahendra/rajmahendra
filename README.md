@@ -18,4 +18,4 @@
 [![](https://img.shields.io/badge/-REDDIT-informational?style=flat-square&logo=reddit&logoColor=white&color=black)](https://www.reddit.com/u/rrhegde)
 
 ## GitHub Stats 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajmahendra)](https://github.com/rajmahendra)
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajmahendra&show_icons=true&theme=tokyonight"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmahendra&layout=compact&theme=tokyonight"> <br>
