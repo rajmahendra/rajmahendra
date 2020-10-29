@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with ...  To become Dev Rel/Advoicate, Technical Writing
 - 💬 Ask me anything ...
 - 📫 How to reach me: http://twitter.com/rajmahendrar  https://www.linkedin.com/in/rajmahendrar
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: We
+- ⚡ Fun fact: _I have no special talents. I am only passionately curious_
 
 ## Connect with me
 ![GitHub followers](https://img.shields.io/github/followers/rajmahendra?label=Follow%20me&logo=github&style=flat-square)
