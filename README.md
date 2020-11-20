@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working ...  For a bank as a Agilist in software engineering group, For Kotling Community in Hyderabad City. ,To Colaborating with other community members
-- 🌱 I’m currently learning ...  To become Dev Rel/Advoicate, Technical Writing, Blogging/Vlogging
-- 👯 I’m looking to collaborate on ...  on anything runs on Java and Kotlin.. Interesting open source, Anyone interested in Community
+- 🔭 I’m currently working ...  For a bank as a Agilist in software engineering group, For Kotlin Community in Hyderabad City as a Lead. and some good interesting OpenSource Project, like to know more.. ? Ask me :) 
+- 🌱 I’m currently learning ...  hmm you can ask me this also weel... 
+- 👯 I’m looking to collaborate on ...  on anything runs on Java and Kotlin.. Interesting open source project, love to help individuals and User Gourps to upscale.
 - 🤔 I’m looking for help with ...  To become Dev Rel/Advoicate, Technical Writing
-- 💬 Ask me anything ...
+- 💬 Ask me anything ...   Yes, I am happy to help, learn and collaborate anything you see in my repos. 
 - 📫 How to reach me: http://twitter.com/rajmahendrar  https://www.linkedin.com/in/rajmahendrar
 - 😄 Pronouns: We
 - ⚡ Fun fact: _I have no special talents. I am only passionately curious_
