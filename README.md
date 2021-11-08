@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working ...  For a bank as a Agilist in software engineering group, For Kotlin Community in Hyderabad City as a Lead. and some good interesting OpenSource Project, like to know more.. ? Ask me :) 
-- 🌱 I’m currently learning ...  hmm you can ask me this also weel... 
-- 👯 I’m looking to collaborate on ...  on anything runs on Java and Kotlin.. Interesting open source project, love to help individuals and User Gourps to upscale.
-- 🤔 I’m looking for help with ...  To become Dev Rel/Advoicate, Technical Writing
-- 💬 Ask me anything ...   Yes, I am happy to help, learn and collaborate anything you see in my repos. 
+- 🔭 I’m currently working ...  In a company as a Agile and Devops Coach. Helping teams to be Self organized, cross functional, collective owned Team and high performance team. Helping product to think small and deliver valuable product and engineers to adopt new light weight methods and CI/CD/CL culture.
+- 🌱 I’m currently learning ... anything I come across in Software, lightweight processes, Sustainable lifestle.  
+- 👯 I’m looking to collaborate on ...  Anything that helps people to be productive and deliver value. 
+- 🤔 I’m looking for help with ...  Open for colaborate and learn each other.
+- 💬 Ask me anything ...   Yes, I am happy to help, learn and collaborate anything you see in my repos or you read about me. 
 - 📫 How to reach me: http://twitter.com/rajmahendrar  https://www.linkedin.com/in/rajmahendrar
-- 😄 Pronouns: We
-- ⚡ Fun fact: _I have no special talents. I am only passionately curious_
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: _I have no special talents. I am only passionately curious_ / _The moment you accept responsibility of everything in your life, is the moment you gain the power to change anything in your life._
 
 ## Connect with me
 ![GitHub followers](https://img.shields.io/github/followers/rajmahendra?label=Follow%20me&logo=github&style=flat-square)
