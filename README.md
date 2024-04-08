@@ -4,8 +4,8 @@
 
 * 🔭 Agile and Lean Practitioner
 * 🌱 Java Champion, NetBeans Dream Team member
-* 👯 JCP Individual Member
-* 🤔 JSR Expert Group Member
+* 👯 JCP Individual Member 
+* 🤔 JSR Expert Group Member - Adopt a JSR, JSR 363: Units of Measurement API, JSR 354: Money and Currency API
 * 💬 JUG/ Community Guy Lead and run JUGChennai, JUGHyderabad, KotlinHyderabad and now ChennaiJavaJVM Community
 * 📫 Open Source Contributor: JBake, Visage, JBoss Forge, 
 * 😄 Pronouns: He/Him
