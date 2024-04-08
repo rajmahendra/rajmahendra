@@ -3,13 +3,13 @@
 ## About me
 
 * 🔭 Agile and Lean Practitioner
-- 🌱 Java Champion, NetBeans Dream Team member
-- 👯 JCP Individual Member
-- 🤔 JSR Expert Group Member
-- 💬 JUG/ Community Guy Lead and run JUGChennai, JUGHyderabad, KotlinHyderabad and now ChennaiJavaJVM Community
-- 📫 Open Source Contributor: JBake, Visage, JBoss Forge, 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: _I have no special talents. I am only passionately curious_ / _The moment you accept responsibility of everything in your life, is the moment you gain the power to change anything in your life._
+* 🌱 Java Champion, NetBeans Dream Team member
+* 👯 JCP Individual Member
+* 🤔 JSR Expert Group Member
+* 💬 JUG/ Community Guy Lead and run JUGChennai, JUGHyderabad, KotlinHyderabad and now ChennaiJavaJVM Community
+* 📫 Open Source Contributor: JBake, Visage, JBoss Forge, 
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: _I have no special talents. I am only passionately curious_ / _The moment you accept responsibility of everything in your life, is the moment you gain the power to change anything in your life._
 
 ## Connect with me
 ![GitHub followers](https://img.shields.io/github/followers/rajmahendra?label=Follow%20me&logo=github&style=flat-square)
