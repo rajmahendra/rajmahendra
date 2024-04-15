@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi there 👋,  About me
 
-## About me
-
-* 🔭 Agile and Lean Practitioner
+* 🔭 Technical Agile and Lean Practitioner
 * 🌱 Java Champion, NetBeans Dream Team member
 * 👯 JCP Individual Member 
 * 🤔 JSR Expert Group Member - Adopt a JSR, JSR 363: Units of Measurement API, JSR 354: Money and Currency API
