@@ -1,12 +1,12 @@
 ## Hi there 👋,  About me
 
+* 😄 Pronouns: He/Him
 * 🔭 Technical Agile and Lean Practitioner
-* 🌱 Java Champion, NetBeans Dream Team member
+* 🌱 Java Champion, NetBeans Dream Team, JakartaEE Ambassadors
 * 👯 JCP Individual Member 
 * 🤔 JSR Expert Group Member - Adopt a JSR, JSR 363: Units of Measurement API, JSR 354: Money and Currency API
 * 💬 JUG/ Community Guy Lead and run JUGChennai, JUGHyderabad, KotlinHyderabad and now ChennaiJavaJVM Community
 * 📫 Open Source Contributor: JBake, Visage, JBoss Forge, 
-* 😄 Pronouns: He/Him
 * ⚡ Fun fact: _I have no special talents. I am only passionately curious_ / _The moment you accept responsibility of everything in your life, is the moment you gain the power to change anything in your life._
 
 ## Connect with me
