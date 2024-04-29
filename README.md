@@ -6,7 +6,8 @@
 * 👯 JCP Individual Member 
 * 🤔 JSR Expert Group Member - Adopt a JSR, JSR 363: Units of Measurement API, JSR 354: Money and Currency API
 * 💬 JUG/ Community Guy Lead and run JUGChennai, JUGHyderabad, KotlinHyderabad and now ChennaiJavaJVM Community
-* 📫 Open Source Contributor: JBake, Visage, JBoss Forge, 
+* 📫 Open Source Contributor: JBake, Visage, JBoss Forge,
+* 📚 Bibliophile, Urban Gardener, Ethical Vegan, Vedanta, Seeker of wisdom
 * ⚡ Fun fact: _I have no special talents. I am only passionately curious_ / _The moment you accept responsibility of everything in your life, is the moment you gain the power to change anything in your life._
 
 ## Connect with me
